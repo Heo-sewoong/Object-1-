@@ -20,7 +20,7 @@ b.age = 25
 
 ---
 ### 결과
-```
+```js
 console.log(a);
 console.log(b);
 
