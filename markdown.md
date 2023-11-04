@@ -26,6 +26,7 @@ console.log(b);
 
 { name: '철수', age: 20 }
 { name: '영희', age: 25 }
+///하나 둘
 
 ```
 
